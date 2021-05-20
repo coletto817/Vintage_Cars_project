@@ -1,31 +1,29 @@
 body {
-    background: rgb(243, 248, 247);
+  background: rgb(243, 248, 247);
 }
 
 .logo img {
-    width: 90px;
-    border-radius: 10%;
+  width: 90px;
+  border-radius: 10%;
 }
 
 .heading {
-    color: rgb(31, 141, 141);
+  color: rgb(31, 141, 141);
 }
 
-
-
 .card img {
-    border-radius: 10%;
+  border-radius: 10%;
 }
 
 .card-img-top {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 .card {
-    margin: 5px;
+  margin: 5px;
 }
 
 .form {
-    background-color: lightgrey;
-    border-radius: 1%;
+  background-color: lightgrey;
+  border-radius: 1%;
 }
