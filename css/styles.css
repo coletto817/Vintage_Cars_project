@@ -1,5 +1,27 @@
-.logo {
-    max-width: 100%;
-    height: auto;
+body {
+    background: rgb(252, 249, 249);
 }
 
+.logo img {
+    width: 90px;
+}
+
+.heading {
+    color: rgb(31, 141, 141);
+}
+
+.card img {
+    border-radius: 10%;
+}
+
+.card-img-top {
+    width: 100%;
+}
+
+.card {
+    margin: 5px;
+}
+
+.form {
+    background-color: lightgrey;
+}
