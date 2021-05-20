@@ -1,5 +1,5 @@
 body {
-    background: rgb(252, 249, 249);
+    background: rgb(243, 248, 247);
 }
 
 .logo img {
@@ -11,12 +11,14 @@ body {
     color: rgb(31, 141, 141);
 }
 
+
+
 .card img {
     border-radius: 10%;
 }
 
 .card-img-top {
-    width: 100%;
+    max-width: 100%;
 }
 
 .card {
